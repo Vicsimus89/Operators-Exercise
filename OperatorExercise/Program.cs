@@ -35,6 +35,8 @@ namespace OperatorExercise
             var area = Math.PI * Math.Pow(radius, 2);
 
             return area;
+
+            //The thought exercise I think the output would be 5.
             
         }
     }
